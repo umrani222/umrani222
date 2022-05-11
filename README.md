@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new technology
 - 🌱 I’m currently learning flutter 
 - 💞️ I’m looking to collaborate on software developers
-- 📫 How to reach me contat me on linkdin/Abid Umrani
+- 📫 How to reach me contact me on linkdin/Abid Umrani
 
 <!---
 Abid/umrani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
